@@ -1,0 +1,5 @@
+nova linha
+
+nova linha depois do excluir
+
+teste checkout
